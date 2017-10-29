@@ -1,0 +1,1 @@
+note: these tests (Google Test) are obsolete.

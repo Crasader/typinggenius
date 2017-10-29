@@ -1,0 +1,40 @@
+{
+    "default_keyboard_label": "com.aldrich.keyboard.default",
+    "default_number_of_keys": 8,
+
+    "logging_level_main_app": "DEBUG4",
+
+    /* for the Unit Tests*/
+    "unit_test_custom_string": "Unit Tests",
+	
+	"show_fps_stats": false,
+	
+	// only pertains to the lorem ipsum random text
+	"max_chars_to_get_per_line": 40, // also see: carriage-configuration.json's (def: iphone-40, ipad-48)
+
+	// can be disabled by enabling use_debug_copy_string
+	// "copy_source_file": "text/lorem-ipsum.json",
+	"copy_source_file": "text/mary-had-a-little-lamb.json",
+
+	"use_debug_copy_string": false,
+	"debug_copy_string": "the quick brown fox jumps over the lazy dogs",
+
+	// turn this on if you would like to test against C++ exceptions: not most cases have been covered here.
+	"disable_sfx": true,
+
+	// disable BGM if too annoying (especially on Simulator)
+	"disable_bgm": true,
+	
+	// in seconds: it's now being auto generated from the player level so this isn't used as much
+	"default_timer_value": 45,
+
+	// when on, any recognized keypress inserts the correct character. In debug build you can still toggle ingame.
+	"god_mode": false,
+
+	"start_in_main_screen": true,
+
+	"show_debug_buttons": true,
+
+	// glyph string copy text loader settings
+	"glyphs_to_generate": 5000
+}

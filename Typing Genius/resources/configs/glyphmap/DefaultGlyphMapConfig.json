@@ -1,0 +1,66 @@
+{
+    "description": "These are mappings for Glyphs and Keys. should match key labels found in DefaultKeyboardConfiguration.json. Glyphs correspond to the HelvetiBlox set",
+    "comment": "The 'comments' attributes in the mappings section aren't being read by the program, they're only there to aid the reader",
+
+    "mappings": { // bottom to top
+        "row_0": {
+            "key:000": { "glyphcode": 0, "startlevel": 2, "comment": "NA" }
+        },
+        "row_1": {
+            "key:001": { "glyphcode": 53, "startlevel": 23, "comment": "palm-print" },
+            "key:002": { "glyphcode": 10, "startlevel": 19, "comment": "skull" },
+            "key:003": { "glyphcode": 49, "startlevel": 15, "comment": "nuclear" },
+            "key:004": { "glyphcode": 77, "startlevel": 11, "comment": "plane" },
+            "key:005": { "glyphcode": 31, "startlevel": 27, "comment": "diamond" },
+            "key:006": { "glyphcode": 40, "startlevel": 11, "comment": "yin-yang" },
+            "key:007": { "glyphcode": 21, "startlevel": 15, "comment": "globe" },
+            "key:008": { "glyphcode": 97, "startlevel": 19, "comment": "shield" },
+            "key:009": { "glyphcode": 83, "startlevel": 23, "comment": "moon" }
+        },
+        "row_2": {
+            "key:010": { "glyphcode": 33, "startlevel": 7, "comment": "ball"},
+            "key:011": { "glyphcode": 68, "startlevel": 5, "comment": "knight" },
+            "key:012": { "glyphcode": 62, "startlevel": 3, "comment": "rocket" },
+            "key:013": { "glyphcode": 90, "startlevel": 1, "comment": "leaf" },
+            "key:014": { "glyphcode": 47, "startlevel": 9, "comment": "bell" },
+            "key:015": { "glyphcode": 67, "startlevel": 9, "comment": "piggy"},
+            "key:016": { "glyphcode": 13, "startlevel": 1, "comment": "bug"},
+            "key:017": { "glyphcode": 44, "startlevel": 3, "comment": "wineglass" },
+            "key:018": { "glyphcode": 94, "startlevel": 5, "comment": "pigeon" },
+            "key:019": { "glyphcode": 96, "startlevel": 7, "comment": "saturn" }
+        },
+        "row_3": {
+            "key:020": { "glyphcode": 54, "startlevel": 25, "comment": "hazard" },
+            "key:021": { "glyphcode": 48, "startlevel": 21, "comment": "masks" },
+            "key:022": { "glyphcode":  9, "startlevel": 17, "comment": "key" },
+            "key:023": { "glyphcode":  5, "startlevel": 13, "comment": "molecule" },
+            "key:024": { "glyphcode":  2, "startlevel": 29, "comment": "sneakers" },
+            "key:025": { "glyphcode": 41, "startlevel": 31, "comment": "jigsaw" },
+            "key:026": { "glyphcode": 19, "startlevel": 29, "comment": "lifeline" },
+            "key:027": { "glyphcode":  4, "startlevel": 13, "comment": "pirate" },
+            "key:028": { "glyphcode": 93, "startlevel": 17, "comment": "scale" },
+            "key:029": { "glyphcode": 92, "startlevel": 21, "comment": "cloud" },
+            "key:030": { "glyphcode": 72, "startlevel": 25, "comment": "hammer" }
+        }
+    },
+
+	"special_abilities": {
+		"key:013": {
+			"startlevel": 1,
+			"glyphcode": 24,
+			"glyphdescription": "hourglass",
+			"abilitycode": "add_time",
+			"cost": 5,
+			"abilitydescription": "adds 15s (?) to the running timer"
+		},
+		
+		"key:016": {
+			"startlevel": 4,
+			"glyphcode": 28,
+			"glyphdescription": "stethoscope",
+			"abilitycode": "undecided",
+			"cost": 0,
+			"abilitydescription": "?"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"label": "Default Carriage Configuration (Tablet)",
+    "author": "Aldrich Co",
+    "date": "September 10, 2013",
+    "description": "The is the default carriage configuration containing stuff about the carriage and its layout.",
+	
+	/* size (pct) in proportion to the screen width and height */
+	"carriage_size" : {
+        "width": 1024,
+        "height": 326
+    },
+
+    "side_margin": 80,
+	
+	// width should be a factor of the carriage width
+	"character_size" : {
+		"width": 18,
+		"height": 40
+	},
+
+	"number_of_chars_in_line": 48
+}
+

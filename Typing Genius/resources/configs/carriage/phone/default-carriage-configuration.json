@@ -1,0 +1,23 @@
+{
+	"label": "Default Carriage Configuration (Phone)",
+    "author": "Aldrich Co",
+    "date": "September 10, 2013",
+    "description": "The is the default carriage configuration containing stuff about the carriage and its layout.",
+	
+	/* size (pct) in proportion to the screen width and height */
+	"carriage_size" : {
+        "width": 568,
+        "height": 140
+    },
+
+    "side_margin": 40,
+	
+	// width should be a factor of the carriage width
+	"character_size" : {
+		"width": 10,
+		"height": 22
+	},
+
+	"number_of_chars_in_line": 60
+}
+

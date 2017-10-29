@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'Typing Genius' target in the 'Typing Genius' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
+
+
+#ifdef __cplusplus
+	#include "log.h"
+	#include <boost/format.hpp>
+#endif

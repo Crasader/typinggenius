@@ -1,0 +1,143 @@
+{
+	"label": "Default Keyboard Configuration (Phone)",
+    "author": "Aldrich Co",
+    "date": "August 28, 2013",
+    "description": "The is the default keyboard configuration containing stuff about the keys and their layout.",
+	"comment": "Assumes a 568 x 320 space",
+
+    "default_key_size" : {
+        "width": 40,
+        "height": 40
+    },
+
+    "default_keyboard_size" : {
+        "width": 480,
+        "height": 160
+    },
+	
+
+    "rows_comment": "we count from the bottom. ids are 0-based",
+	
+    "rows": {
+        "row_0": {
+            "x_offset": 63,
+            "y_offset": 5,
+            "button_hgap": 1
+        },
+
+        "row_1": {
+            "x_offset": 48,
+            "y_offset": 45,
+            "button_hgap": 1
+        },
+
+        "row_2": {
+            "x_offset": 33,
+            "y_offset": 85,
+            "button_hgap": 1
+        },
+
+        "row_3": {
+            "x_offset": 18,
+            "y_offset": 125,
+            "button_hgap": 1
+        }
+    },
+
+    "keys_comment": "the order of keys are significant.",
+
+    "keys": {
+        "row_0": {
+            "key:000": {
+                "size": {"width": 328, "height": 40 },
+                "version": "long"
+            }
+        },
+        "row_1": {
+
+            "key:001": {},
+
+            "key:002": {},
+
+            "key:003": {},
+
+            "key:004": {},
+
+            "key:005": {},
+
+            "key:006": {},
+
+            "key:007": {},
+
+            "key:008": {},
+
+            "key:009": {}
+
+        },
+        "row_2": {
+
+            "key:010": {},
+
+            "key:011": {},
+
+            "key:012": {},
+
+            "key:013": {},
+
+            "key:014": {},
+
+            "key:015": {},
+
+            "key:016": {},
+
+            "key:017": {},
+
+            "key:018": {},
+
+			"key:019": {}
+
+        },
+
+        "row_3": {
+
+            "key:020": {},
+
+            "key:021": {},
+
+            "key:022": {},
+
+            "key:023": {},
+
+            "key:024": {},
+
+            "key:025": {},
+
+            "key:026": {},
+
+            "key:027": {},
+			
+			"key:028": {},
+			
+			"key:029": {},
+			
+			"key:030": {}
+        },
+		
+		"other_keys": { // whose positions will be manually specified.
+			"mod:shift_left": {
+				"x": -12,
+				"y": 45, // aligned with row_1
+                "size": {"width": 60, "height": 40 },
+				"version": "shift"
+			},
+			
+			"mod:shift_right": {
+				"x": 418,
+				"y": 45, // aligned with row_1
+                "size": {"width": 60, "height": 40 },
+				"version": "shift"
+			}
+		}
+    }
+}
+

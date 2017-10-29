@@ -1,0 +1,2236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>helvetiblox-001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 11}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{303, 90}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 274}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 49}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {48, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 385}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 7}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{377, 42}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 7}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{377, 0}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 246}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 7}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{123, 421}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 6}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 135}, {40, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 45}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 4}, {30, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{30, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{133, 138}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{167, 345}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 221}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {44, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{281, 0}, {36, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 17}, {18, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{281, 225}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 17}, {18, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 180}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 17}, {18, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{271, 180}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 17}, {18, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{88, 317}, {18, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 383}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{169, 302}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 6}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{210, 346}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 9}, {46, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{279, 45}, {34, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 8}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{44, 341}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 7}, {46, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 184}, {38, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 12}, {46, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{347, 45}, {28, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 12}, {46, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{349, 0}, {28, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 6}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{251, 346}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 326}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 213}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{165, 383}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 135}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{315, 45}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{317, 0}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 461}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 180}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{271, 90}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{206, 0}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 92}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{198, 92}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{199, 46}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{213, 212}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {42, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 301}, {44, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{47, 93}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 385}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{45, 221}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 4}, {24, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{45, 265}, {44, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 12}, {44, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 90}, {28, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 8}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{131, 184}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 8}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 0}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 3}, {38, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{46, 183}, {46, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 7}, {22, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{22, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 180}, {38, 22}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 9}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{135, 230}, {34, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 10}, {40, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{291, 366}, {32, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 138}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{81, 341}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 5}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 0}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{81, 423}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 8}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{245, 201}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{123, 379}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 3}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{169, 168}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{90, 230}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 344}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 8}, {42, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 179}, {36, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{90, 273}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{44, 301}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 7}, {28, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{28, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 138}, {38, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{93, 92}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 95}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{46, 138}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 14}, {46, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{362, 90}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{169, 212}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 284}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 317}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{38, 459}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 6}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 303}, {40, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 257}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 135}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{231, 90}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{93, 46}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 258}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 5}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 284}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 424}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{38, 424}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 5}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{81, 379}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {28, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{28, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 185}, {46, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 140}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{133, 46}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{127, 0}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 14}, {40, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 243}, {24, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {46, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{47, 47}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{169, 257}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{44, 0}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 46}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{133, 92}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 0}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{43, 386}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 8}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 418}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 11}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{302, 135}, {30, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>helvetiblox-100.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {38, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 422}, {30, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>keylabels-helvetiblox.zwd</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>x2</string>
+			<key>textureFileName</key>
+			<string>keylabels-helvetiblox</string>
+			<key>textureFileExtension</key>
+			<string>.pvr.ccz</string>
+			<key>coordinatesFileName</key>
+			<string>keylabels-helvetiblox</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

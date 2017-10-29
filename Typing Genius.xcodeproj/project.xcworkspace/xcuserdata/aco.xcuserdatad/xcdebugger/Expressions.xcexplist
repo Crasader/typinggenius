@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ac::StatsHUDViewImpl::setScoreLabelValue(cocos2d::CCNode*, void*):StatsHUDView.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ac::StatsHUDViewImpl::updateLevelProgress(ac::StatsHUDModel const&amp;, float):StatsHUDView.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "shView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
